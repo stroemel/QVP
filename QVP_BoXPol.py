@@ -8,6 +8,7 @@ median averaging for zh, zdr,rho, phi over 360 degrees
 
 """
 # Todo: add wet bulb temperature
+# from cosmo data
 
 import warnings
 
